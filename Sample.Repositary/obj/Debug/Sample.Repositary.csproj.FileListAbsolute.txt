@@ -1,0 +1,12 @@
+F:\SkillTest\SkillTest\Sample.Repositary\bin\Debug\Sample.Repositary.dll
+F:\SkillTest\SkillTest\Sample.Repositary\bin\Debug\Sample.Repositary.pdb
+F:\SkillTest\SkillTest\Sample.Repositary\obj\Debug\Sample.Repositary.dll
+F:\SkillTest\SkillTest\Sample.Repositary\obj\Debug\Sample.Repositary.pdb
+F:\SkillTest\SkillTest\Sample.Repositary\bin\Debug\Sample.Repositary.dll.config
+F:\SkillTest\SkillTest\Sample.Repositary\bin\Debug\EntityFramework.dll
+F:\SkillTest\SkillTest\Sample.Repositary\bin\Debug\EntityFramework.SqlServer.dll
+F:\SkillTest\SkillTest\Sample.Repositary\bin\Debug\EntityFramework.xml
+F:\SkillTest\SkillTest\Sample.Repositary\bin\Debug\EntityFramework.SqlServer.xml
+F:\SkillTest\SkillTest\Sample.Repositary\obj\Debug\Sample.Repositary.csprojResolveAssemblyReference.cache
+F:\SkillTest\SkillTest\Sample.Repositary\obj\Debug\Sample.Repositary.Migrations.initlize.resources
+F:\SkillTest\SkillTest\Sample.Repositary\obj\Debug\Sample.Repositary.csproj.GenerateResource.Cache

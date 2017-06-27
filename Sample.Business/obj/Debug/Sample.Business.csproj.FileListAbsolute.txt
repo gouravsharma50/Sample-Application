@@ -1,0 +1,13 @@
+F:\SkillTest\SkillTest\Sample.Business\bin\Debug\Sample.Business.dll
+F:\SkillTest\SkillTest\Sample.Business\bin\Debug\Sample.Business.pdb
+F:\SkillTest\SkillTest\Sample.Business\obj\Debug\Sample.Business.csprojResolveAssemblyReference.cache
+F:\SkillTest\SkillTest\Sample.Business\obj\Debug\Sample.Business.dll
+F:\SkillTest\SkillTest\Sample.Business\obj\Debug\Sample.Business.pdb
+F:\SkillTest\SkillTest\Sample.Business\bin\Debug\Sample.Domain.dll
+F:\SkillTest\SkillTest\Sample.Business\bin\Debug\Sample.Repositary.dll
+F:\SkillTest\SkillTest\Sample.Business\bin\Debug\Sample.Utility.dll
+F:\SkillTest\SkillTest\Sample.Business\bin\Debug\EntityFramework.dll
+F:\SkillTest\SkillTest\Sample.Business\bin\Debug\Sample.Domain.pdb
+F:\SkillTest\SkillTest\Sample.Business\bin\Debug\Sample.Repositary.pdb
+F:\SkillTest\SkillTest\Sample.Business\bin\Debug\Sample.Utility.pdb
+F:\SkillTest\SkillTest\Sample.Business\bin\Debug\EntityFramework.xml

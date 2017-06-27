@@ -1,0 +1,5 @@
+F:\SkillTest\SkillTest\Sample.Utility\bin\Debug\Sample.Utility.dll
+F:\SkillTest\SkillTest\Sample.Utility\bin\Debug\Sample.Utility.pdb
+F:\SkillTest\SkillTest\Sample.Utility\obj\Debug\Sample.Utility.csprojResolveAssemblyReference.cache
+F:\SkillTest\SkillTest\Sample.Utility\obj\Debug\Sample.Utility.dll
+F:\SkillTest\SkillTest\Sample.Utility\obj\Debug\Sample.Utility.pdb

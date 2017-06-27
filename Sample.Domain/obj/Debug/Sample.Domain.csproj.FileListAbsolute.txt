@@ -1,0 +1,5 @@
+F:\SkillTest\SkillTest\Sample.Domain\bin\Debug\Sample.Domain.dll
+F:\SkillTest\SkillTest\Sample.Domain\bin\Debug\Sample.Domain.pdb
+F:\SkillTest\SkillTest\Sample.Domain\obj\Debug\Sample.Domain.csprojResolveAssemblyReference.cache
+F:\SkillTest\SkillTest\Sample.Domain\obj\Debug\Sample.Domain.dll
+F:\SkillTest\SkillTest\Sample.Domain\obj\Debug\Sample.Domain.pdb
